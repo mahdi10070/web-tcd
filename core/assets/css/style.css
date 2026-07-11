@@ -12484,7 +12484,7 @@ ul.rbt-dropdown-menu.currency-menu li .sub-menu {
   letter-spacing: 0.5px;
 }
 .rbt-badge-card::before {
-  background: linear-gradient(-90deg, var(--color-primary) 15%, var(--color-secondary) 45%, var(--color-secondary) 75%, var(--color-primary) 100%) 95%/200% 100%;
+  background: linear-gradient(-90deg, var(--color-normalred) 15%, var(--color-black) 45%, var(--color-secondary) 75%, var(--color-primary) 100%) 95%/200% 100%;
   content: "";
   width: 100%;
   height: 100%;
@@ -12493,7 +12493,7 @@ ul.rbt-dropdown-menu.currency-menu li .sub-menu {
   position: absolute;
   z-index: -1;
   border-radius: 100px;
-  opacity: 0.5;
+  /* opacity: 0.5; */
   background-size: 400% 100%;
 }
 
@@ -12501,7 +12501,7 @@ ul.rbt-dropdown-menu.currency-menu li .sub-menu {
     Mega Menu Options  
 ------------------------------*/
 .mega-top-banner {
-  background-image: url(../images/course/category-10.png), radial-gradient(100% 100% at 100% 0%, #484C7A 0%, #23263B 100%);
+  background-image: url(../images/calibration/peressuer.jpg), radial-gradient(100% 100% at 100% 0%, #484C7A 0%, #23263B 100%);
   background-size: contain;
   background-position: left 30%;
   margin: -25px;
@@ -14484,7 +14484,7 @@ span.transparent-button:hover i {
 }
 
 .rbt-short-title {
-  font-size: 12px;
+  font-size: 18px;
   padding-bottom: 14px;
   font-weight: 600;
   text-transform: uppercase;
@@ -29444,7 +29444,7 @@ Course Sidebar
 ***************************************/
 .active-dark-mode {
   background: var(--color-darker);
-  color: var(--color-black);
+  color: var(--color-white);
 }
 .active-dark-mode .my_switcher ul {
   background: var(--color-darker);

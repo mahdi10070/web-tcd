@@ -30333,7 +30333,7 @@ Course Sidebar
   border-top: 1px solid transparent;
 }
 .active-dark-mode .rbt-short-title {
-  color: var(--color-black);
+  color: var(--color-white);
 }
 .active-dark-mode .rbt-header .mainmenu-nav .mainmenu li.with-megamenu .rbt-megamenu .wrapper .mega-menu-item li a {
   color: var(--color-white);
